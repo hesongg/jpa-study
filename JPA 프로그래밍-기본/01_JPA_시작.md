@@ -49,7 +49,8 @@
 	
 	- 방언: SQL 표준을 지키지 않는 특정 데이터베이스만의 고유한 기능
 	
-	- 
+	![image](https://user-images.githubusercontent.com/77953474/188557699-92b8afec-d65c-4e40-9922-c7ae17e9151e.png)
+
 	
 	- ```hibernate.dialect``` 속성에 지정
 		- H2 : org.hibernate.dialect.H2Dialect
@@ -63,7 +64,9 @@
 #### Hello JPA - 애플리케이션 개발
 
 - JPA 구동 방식
-	- 그림
+	
+	![image](https://user-images.githubusercontent.com/77953474/188557759-c407381f-f9ac-42c8-86c6-52c1efc0d8be.png)
+
 	
 - 객체와 테이블을 생성하고 매핑
 	- ```@Entity``` : JPA가 관리할 객체
